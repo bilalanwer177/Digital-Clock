@@ -15,11 +15,12 @@ body{
   /* padding: 50px; */
   color: green;
   text-align: center;
-  /* margin-top: 50px; */
+  margin-top: 50px;
   text-shadow: 1px 1px 10px rgb(2, 63, 2);
 }
 
 .heading{
+  padding: 1px;  
   text-align: center;
   color: green;
 }
