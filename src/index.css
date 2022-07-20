@@ -1,0 +1,25 @@
+body{
+  background-color: rgb(2, 63, 2);  
+}
+.container{
+  margin: auto;
+  margin-top: 220px;
+  text-align: center;
+  background-color:rgb(255, 255, 255);
+  height: 200px;
+  width: 200px;
+  border-top-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
+.text {
+  /* padding: 50px; */
+  color: green;
+  text-align: center;
+  /* margin-top: 50px; */
+  text-shadow: 1px 1px 10px rgb(2, 63, 2);
+}
+
+.heading{
+  text-align: center;
+  color: green;
+}
